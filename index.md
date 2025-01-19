@@ -41,11 +41,6 @@ I am currently in my senior year, living in Kolkata, India. This is about my jou
   - Selected for the second round of TOSC(Techkriti Open School Championship), IIT Kanpur
   - Top 20 in Ashoka Economic Olympiad, Ashoka University                                                                                                         
 
-  -                                                                                     
-
-
-- 
-
 
 ## Resources
 Here are some helpful materials:
