@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Uddipa Pal 
 description: Hello World!
 
+plugins:
+  - jekyll-sitemap
